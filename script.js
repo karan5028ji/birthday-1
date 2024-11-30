@@ -24,3 +24,4 @@ document.querySelectorAll('.gallery-photo').forEach(photo => {
     });
   });
 });
+
